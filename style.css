@@ -2,7 +2,7 @@
     display: flex;
     flex-wrap: wrap;
     height: 70vh;
-    width: 30rem;
+    width: 25rem;
     background-color:blanchedalmond;
     border: 1px solid black;
     border-radius: 30px;
@@ -75,9 +75,8 @@ div.forgot-password {
   /* text-align: right; */
   margin-left: 100px;
   padding-top: 20px;
-  padding-left: 110px;
+  padding-left: 70px;
 }
-
 
 div.forgot-password a {
    color: black;
@@ -91,7 +90,7 @@ div.forgot-password a {
     width: 180px;
     height: 40px;
     align-items: center;
-    margin-left: 155px;
+    margin-left: 125px;
     margin-top: 35px;
     border-radius: 7px;
     background-color: orange;
@@ -103,7 +102,7 @@ div.forgot-password a {
 
 .line {
     font-size: 25px;
-    margin-left: 62px;
+    margin-left: 31px;
     margin-top: 20px;
     color: orange;
     font-weight: 900;
@@ -113,7 +112,7 @@ div.forgot-password a {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    gap: 45px;
+    gap: 30px;
     padding-left: 50px;
     align-content: center;
     align-items: center;
