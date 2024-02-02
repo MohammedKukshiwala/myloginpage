@@ -1,0 +1,146 @@
+.login-form {
+    display: flex;
+    flex-wrap: wrap;
+    height: 70vh;
+    width: 30rem;
+    background-color:blanchedalmond;
+    border: 1px solid black;
+    border-radius: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    border-color: orangered;
+}
+
+.login-form h1 {
+    text-align: left;
+   padding-top: 25px;
+   padding-left: 60px;
+   color: orange;
+   font-weight: 700;
+}
+
+.email {
+    padding-left: 60px;
+    font-weight: 900;
+    font-size: 18px;
+    margin-top: -40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-top: 20px;
+    color: orange;
+
+}
+
+.email label {
+    order: -1;
+}
+
+.email input {
+    width: 90%;
+    border-radius: 10px;
+    height: 35px; 
+    margin-top: 10px;
+    border-color: orangered;
+
+}
+
+.password {
+    padding-left: 60px;
+    font-weight: 900;
+    font-size: 18px;
+    margin-top: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-top: 20px;
+    color: orange;
+
+
+}
+
+.password label {
+    order: -1;
+    /* width: 80%; */
+    margin-bottom: 5px;
+    flex-wrap: wrap;
+}
+
+.password input {
+    width: 90%;
+    border-radius: 10px;
+    height: 35px;
+    margin-top: 10px;
+    border-color: orangered;
+}
+
+div.forgot-password {
+  text-align: right;
+  margin-left: 100px;
+  padding-top: 20px;
+  padding-left: 170px;
+}
+
+div.forgot-password a {
+   color: black;
+   font-weight: 500;
+   font-size: 20px;
+   color: orange;
+   font-weight: 900;
+}
+
+.login-btn {
+    width: 180px;
+    height: 40px;
+    align-items: center;
+    margin-left: 155px;
+    margin-top: 35px;
+    border-radius: 7px;
+    background-color: orange;
+    color: black;
+    font-size: 15px;
+    font-weight: 600;
+    border-color: orangered;
+}
+
+.line {
+    font-size: 25px;
+    margin-left: 62px;
+    margin-top: 20px;
+    color: orange;
+    font-weight: 900;
+}
+
+.social-icons {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 45px;
+    padding-left: 50px;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.social-icons a {
+    font-size: 45px;
+    /* padding-left: 15px; */
+    padding-top: 15px;
+  
+    text-align: center;
+    align-items: center;
+}
+
+.signup-link {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.signup-link h2 a{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: orange;
+
+}
+
+
+.social-icons a i{
+    color: orange;
+}
