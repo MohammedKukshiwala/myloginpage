@@ -72,11 +72,12 @@
 }
 
 div.forgot-password {
-  text-align: right;
+  /* text-align: right; */
   margin-left: 100px;
   padding-top: 20px;
-  padding-left: 170px;
+  padding-left: 110px;
 }
+
 
 div.forgot-password a {
    color: black;
